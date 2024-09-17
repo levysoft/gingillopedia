@@ -5,6 +5,7 @@
 Da un Digitaliano per i Digitaliani, il gingillo per eccellenza: il database di tutti i gingilli mai pubblicati dalla Redazione Distribuita di Digitalia.
 
 V1.0  - Initial release
+
 V2.0 - Update with Bootstrap 5 e PWA
 
 # Gingillopedia - Versione 2.0
